@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/priyansh_nahar" target="blank"><img src="https://img.shields.io/twitter/follow/priyansh_nahar?logo=twitter&style=for-the-badge" alt="priyansh_nahar" /></a> </p>
 
-- 🔭 I’m currently working on [my old projects](Gabby)
+- 🔭 I’m currently working on my old projects
 
 - 🌱 I’m currently learning **Node,JWT**
 
-- 💬 Ask me about **css**
+- 💬 Ask me about **CSS**
 
 - 📫 How to reach me **priyanshnahar1998@gmail.com**
 
